@@ -1,4 +1,7 @@
 # huxinglu5
+
+注意：两个数据库的数据不同，所以搜索结果也有不同！
+
 mysql数据库连接
 ![images](https://raw.githubusercontent.com/lululu1995/huxinglu5/master/image/mysql%E6%95%B0%E6%8D%AE%E5%BA%93.jpg)
 
